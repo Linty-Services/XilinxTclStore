@@ -4,11 +4,11 @@
     <app>
       <revision_history>Initial version</revision_history>
       <name>vivado_to_linty</name>
+      <author>David Racodon</author>
       <company>linty</company>
       <company_display>Linty</company_display>
       <summary>Generate Linty elaboration scripts from the open Vivado project. All files are generated in the .linty directory.</summary>
       <display>Vivado to Linty</display>
-      <author>David Racodon</author>
       <procs>
         <proc>
           <name>run</name>

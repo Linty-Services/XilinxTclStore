@@ -375,7 +375,7 @@ proc ::tclapp::linty::vivado_to_linty::internal::is_global_include {f} {
 
 proc ::tclapp::linty::vivado_to_linty::run {} {
 
-    # Summary: Generate Linty elaboration scripts for the current Vivado project.
+    # Summary: Generate Linty elaboration scripts from the open Vivado project. All files are generated in the .linty directory.
 
     # Argument Usage:
 
